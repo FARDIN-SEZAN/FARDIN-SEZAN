@@ -1,6 +1,6 @@
 - Hi, I’m @FARDIN-SEZAN
 - I’m interested in Programming and Cyber Security
--  Currently studying at American International University-Bangladesh(AIUB)
+- Am doing my Major in Computer Science & Engineering at American International University of Bangladesh (AIUB)
 - Catch me on - #Email: fardin12sezan@gmail.com
 
 <!---
