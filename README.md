@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FARDIN-SEZAN
 - I’m interested in Programming and Cyber Security
 -  Student of American International University-Bangladesh(AIUB)
-- Cath me on - #Email: fardin12sezan@gmail.com
+- Catch me on - #Email: fardin12sezan@gmail.com
 
 <!---
 FARDIN-SEZAN/FARDIN-SEZAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
