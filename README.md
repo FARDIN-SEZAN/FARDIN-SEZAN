@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FARDIN-SEZAN
+- Hi, I’m @FARDIN-SEZAN
 - I’m interested in Programming and Cyber Security
 -  Student of American International University-Bangladesh(AIUB)
 - Catch me on - #Email: fardin12sezan@gmail.com
