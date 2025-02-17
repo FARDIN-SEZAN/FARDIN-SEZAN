@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **fardin12sezan@gmail.com**
 
-- ⚡ Fun fact **Wired is a side effect of awesomeness**
+- ⚡ Fun fact **Weird is a side effect of awesomeness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
