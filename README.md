@@ -1,6 +1,6 @@
 ![logo](https://github.com/FARDIN-SEZAN/FARDIN-SEZAN/blob/main/Final%20Own%20Banner%20.png)
 <h1 align="center">What's been up ? I'm Fardin-al-Sezan</h1>
-<h3 align="center">A passionate CSE Engineer N interested in Software Quality Assurance (QA)</h3>
+<h3 align="center">A passionate CSE Engineer n interested in Software Quality Assurance (QA)</h3>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
