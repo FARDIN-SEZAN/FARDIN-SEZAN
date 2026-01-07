@@ -1,6 +1,6 @@
 ![logo](https://github.com/FARDIN-SEZAN/FARDIN-SEZAN/blob/main/Final%20Own%20Banner%20.png)
 <h1 align="center">What's been up ? I'm Fardin-al-Sezan</h1>
-<h3 align="center">A passionate CSE Engineer n interested in Software Quality Assurance (QA)</h3>
+<h3 align="center">A passionate CSE Engineer & interested in Design & Development (Database architect) </h3>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently doing **my Major in Computer Science & Engineering at American International University of Bangladesh (AIUB)**
 
-- 🌱 I’m currently learning **Crafting Quality Code**
+- 🌱 I’m currently learning **How to process organizing data to eliminate redundancy and improve data integrity. **
 
-- 💬 Ask me about **Test Strategy, QA, Aptitude**
+- 💬 Ask me about **Normalization, Data modeling**
 
 - 📫 How to reach me **fardin12sezan@gmail.com**
 
-- ⚡ Fun fact **Weird is a side effect of awesomeness**
+- ⚡ Fun fact **The only way to do great work is to love what you do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
