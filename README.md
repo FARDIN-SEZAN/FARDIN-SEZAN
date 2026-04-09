@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin-sezan&label=Profile%20views&color=0e75b6&style=flat" alt="fardin-sezan" /> </p>
 
-- 🔭 I’m currently doing **my Major in Computer Science & Engineering at American International University of Bangladesh (AIUB)**
+- 🔭 I’m currently working on @quantigoai
 
 - 🌱 I’m currently learning **How to process organizing data to eliminate redundancy and improve data integrity. **
 
