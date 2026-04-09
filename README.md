@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin-sezan&label=Profile%20views&color=0e75b6&style=flat" alt="fardin-sezan" /> </p>
 
-- 🔭 I’m currently working on @quantigoai
+- 🔭 I’m currently working on Data Annotator
 
-- 🌱 I’m currently learning **How to process organizing data to eliminate redundancy and improve data integrity. **
+- 🌱 I’m currently learning **How to delivering accurate, high-quality data to improve model performance **
 
-- 💬 Ask me about **Normalization, Data modeling**
+- 💬 Ask me about **Data Annotator | Data Labeling | Data Cleaning | AI Training Data**
 
 - 📫 How to reach me **fardin12sezan@gmail.com**
 
