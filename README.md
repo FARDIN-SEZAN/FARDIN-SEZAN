@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin-sezan&label=Profile%20views&color=0e75b6&style=flat" alt="fardin-sezan" /> </p>
 
-- 🔭 I’m currently working as a Data Annotator
+- 🔭 I’m currently enhancing my skills in IT Infrastructure and Network Administration.
 
 - 🌱 I’m currently learning **Advanced Networking protocols, System Troubleshooting, and Server Management. **
 
