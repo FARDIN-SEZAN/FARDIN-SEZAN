@@ -1,6 +1,6 @@
 ![logo](https://github.com/FARDIN-SEZAN/FARDIN-SEZAN/blob/main/Final%20Own%20Banner%20.png)
 <h1 align="center">What's been up ? I'm Fardin-al-Sezan</h1>
-<h3 align="center">A passionate CSE Engineer & interested in Design & Development (Database architect) </h3>
+<h3 align="center">A passionate CSE Engineer & interested in IT Infrastructure and Networking </h3>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working as a Data Annotator
 
-- 🌱 I’m currently learning **How to delivering accurate, high-quality data to improve model performance **
+- 🌱 I’m currently learning **Advanced Networking protocols, System Troubleshooting, and Server Management. **
 
-- 💬 Ask me about **Data Annotator | Data Labeling | Data Cleaning | AI Training Data**
+- 💬 Ask me about **Computer Hardware, Windows/Linux Troubleshooting, Networking, and System Optimization.**
 
 - 📫 How to reach me **fardin12sezan@gmail.com**
 
