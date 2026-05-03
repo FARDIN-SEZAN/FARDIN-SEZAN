@@ -1,17 +1,17 @@
 ![logo](https://github.com/FARDIN-SEZAN/FARDIN-SEZAN/blob/main/Final%20Own%20Banner%20.png)
 <h1 align="center">What's been up ? I'm Fardin-al-Sezan</h1>
-<h3 align="center">A passionate CSE Engineer & interested in IT Infrastructure and Networking </h3>
+<h3 align="center">A passionate CSE Engineer & interested in IT Infrastructure and SQA </h3>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin-sezan&label=Profile%20views&color=0e75b6&style=flat" alt="fardin-sezan" /> </p>
 
-- 🔭 I’m currently enhancing my skills in IT Infrastructure and Network Administration.
+- 🔭 I’m currently enhancing my skills in IT Support, Database, and Software Quality Assurance (SQA).
 
-- 🌱 I’m currently learning **Advanced Networking protocols, System Troubleshooting, and Server Management. **
+- 🌱 I’m currently learning **Manual Testing, Test Documentation, Defect Life Cycle Management, and Database Validation. **
 
-- 💬 Ask me about **Computer Hardware, Windows/Linux Troubleshooting, Networking, and System Optimization.**
+- 💬 Ask me about **Hardware Troubleshooting, Windows OS, Oracle SQL, and Software Testing.**
 
 - 📫 How to reach me **fardin12sezan@gmail.com**
 
